@@ -1,1 +1,10 @@
 
+1. .gitignore
+2. next.config.js
+3. package.json
+4. tsconfig.json
+5. src/          ← pasta (IMPORTANTE)
+6. public/       ← pasta (se existir)
+7. app/          ← pasta (se existir)
+8. components/   ← pasta (se existir)
+9. README.md     ← se existir
